@@ -1,0 +1,73 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Saturday, November 13, 2021
+Project Path:       C:\Users\raula\OneDrive\Escritorio\luz aplausos\Proyecto.prj
+Design Path:        C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.pcb
+Design Title:       
+Created:            13/10/2021 15:11:13
+Last Saved:         13/11/2021 17:28:17
+Editing Time:       1974 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Gap in Net "+5V" between (508.87,466.40) and (508.52,434.56) 
+    +5V.
+Gap in Net "+AC" between (535.04,458.90) and (535.04,417.94) 
+    +AC.
+Gap in Net "-AC" between (535.04,463.98) and (535.04,423.02) 
+    -AC.
+
+Number of errors found : 3
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

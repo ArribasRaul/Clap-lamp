@@ -1,0 +1,22 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Wednesday, October 27, 2021
+Project Path:       C:\Users\raula\OneDrive\Escritorio\luz aplausos\Proyecto.prj
+Design Path:        C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.pcb
+Design Title:       
+Created:            13/10/2021 16:11:13
+Last Saved:         27/10/2021 17:49:34
+Editing Time:       1920 min
+Units:              mm (precision 2)
+
+Disconnected pin "PL3.1" from net "+AC".
+Disconnected pin "PL3.3" from net "-AC".
+
+Deleted component reference "PL3".
+
+Connected pin "PL4.+" to net "+AC".
+Connected pin "PL4.-" to net "-AC".
+
+
+End Of Report.

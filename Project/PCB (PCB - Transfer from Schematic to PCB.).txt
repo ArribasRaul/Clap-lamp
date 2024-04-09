@@ -1,0 +1,33 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Wednesday, October 13, 2021
+Design Path:        C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.pcb
+Design Title:       
+Created:            13/10/2021 16:11:13
+Last Saved:         13/10/2021 16:12:28
+Editing Time:       1 min
+Units:              mm (precision 2)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+Could not load component "R" package "SM" into target design.
+Could not add "R1" component "R" package "SM" to target design.
+Could not load component "555 Timer" package "DIL" into target design.
+Could not add "IC1" component "555 Timer" package "DIL" to target design.
+Could not add "R3" component "R" package "SM" to target design.
+Could not add "R4" component "R" package "SM" to target design.
+Could not add "R5" component "R" package "SM" to target design.
+Could not add "R7" component "R" package "SM" to target design.
+Could not load component "BC547" package "DSC" into target design.
+Could not add "Q1" component "BC547" package "DSC" to target design.
+Could not add "Q2" component "BC547" package "DSC" to target design.
+Could not load component "D" package "SM" into target design.
+Could not add "D1" component "D" package "SM" to target design.
+Could not load component "2N2222A" package "DSC" into target design.
+Could not add "Q3" component "2N2222A" package "DSC" to target design.
+Could not load component "1N4004" package "DIOD05" into target design.
+Could not add "D2" component "1N4004" package "DIOD05" to target design.
+Could not load component "JS1-5V-F" package "JS1-12V-F_1" into target design.
+Could not add "K1" component "JS1-5V-F" package "JS1-12V-F_1" to target design.
+
+End Of Report.

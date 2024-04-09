@@ -1,0 +1,41 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Wednesday, October 27, 2021
+Project Path:       C:\Users\raula\OneDrive\Escritorio\luz aplausos\Proyecto.prj
+Design Path:        C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.pcb
+Design Title:       
+Created:            13/10/2021 16:11:13
+Last Saved:         27/10/2021 17:49:34
+Editing Time:       1920 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "Proyecto"
+=====================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Disconnect PL3.1 from Net "+AC"
+Disconnect PL3.3 from Net "-AC"
+
+Delete Component "PL3" [CONN_SIL_3]
+
+Component 'L4940V5' package 'TO270P460X1020X2008-3P' in Schematic is newer version than PCB, use Update Component to correct this.
+
+Value "RS Price/Stock" on component instance "IC2" caused by library item mismatch.
+
+Use Update to reload Component "L4940V5" to add/alter Value "Mouser Part Number"
+Use Update to reload Component "L4940V5" to add/alter Value "Mouser Price/Stock"
+Use Update to reload Component "L4940V5" to add/alter Value "Arrow Part Number"
+Use Update to reload Component "L4940V5" to add/alter Value "Arrow Price/Stock"
+Use Update to reload Component "L4940V5" to add/alter Value "Datasheet Link"
+Use Update to reload Component "L4940V5" to add/alter Value "RS Part Number"
+Use Update to reload Component "L4940V5" to add/alter Value "Allied_Number"
+Connect Pin PL4-+ to Net "+AC"
+Connect Pin PL4-- to Net "-AC"
+
+
+End Of Report.

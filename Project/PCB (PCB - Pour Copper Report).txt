@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Saturday, November 13, 2021
+Project Path:       C:\Users\raula\OneDrive\Escritorio\luz aplausos\Proyecto.prj
+Design Path:        C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.pcb
+Design Title:       
+Created:            13/10/2021 15:11:13
+Last Saved:         13/11/2021 17:28:17
+Editing Time:       1976 min
+Units:              mm (precision 2)
+
+
+End Of Report.

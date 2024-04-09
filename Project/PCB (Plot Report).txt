@@ -1,0 +1,46 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, December 01, 2021
+Project Path:       C:\Users\raula\OneDrive\Escritorio\luz aplausos\Proyecto.prj
+Design Path:        C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.pcb
+Design Title:       
+Created:            13/10/2021 15:11:13
+Last Saved:         13/11/2021 18:24:55
+Editing Time:       2030 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black No
+Embed Fonts Yes
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\raula\OneDrive\Escritorio\luz aplausos\PCB.mop"
+
+
+PDF Output
+==========
+
+    Layer
+    -----------
+    Top Copper
+
+
+End Of Report.
