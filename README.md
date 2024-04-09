@@ -10,6 +10,7 @@ This project involves modifying a lamp to activate in response to clapping or fi
 
 ## Tools Used
 The PCB design was created using DesignSpark PCB, an electronic circuit design tool.
+
 <img src="https://i.imgur.com/xL6cLVB.jpeg">
 
 ## Usage Instructions
