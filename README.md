@@ -2,7 +2,7 @@
 This project involves modifying a lamp to activate in response to clapping or finger snapping. The printed circuit board (PCB) incorporates an LED as the primary light source and has the capability to control an additional lamp using a relay.
 
 ## Project Contents
-- **Project:** `Proyecto.prj`.
+- **Project:** `Proyecto.prj`
 - **Schematic:** `Esquematico.sch` file showcasing the electrical design of the project.
 - **PCB Design:** `PCB.pcb` file representing the printed circuit board layout.
 - **Gerber Files:** Folder containing necessary files for PCB fabrication.
