@@ -25,6 +25,3 @@ The PCB design was created using DesignSpark PCB, an electronic circuit design t
 
 ## Contributions
 Contributions are welcome! If you'd like to enhance this project, feel free to submit pull requests.
-
-## License
-These projects are open-source and available under the [MIT License](LICENSE).
